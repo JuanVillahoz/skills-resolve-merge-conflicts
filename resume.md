@@ -1,8 +1,15 @@
 # GitHub Teacher
+/** Cambios en el archivo
+*/
+Nuevo codigo
+head
+New file
+
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Jobs
+
+## Job History
 
 ### GitHub Trainer
 
